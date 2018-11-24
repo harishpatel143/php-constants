@@ -5,6 +5,7 @@ This is gloablly used constant package in PHP.
 You can simply install the package and use it in all over the application.
 ```
 
+
 ``
 Time Constant for Hour
 ``
@@ -37,4 +38,19 @@ DAY_IN_SECONDS
 WEEK_IN_SECONDS
 MONTH_IN_SECONDS
 YEAR_IN_SECONDS
+```
+
+
+``
+Color Constant
+``
+
+```php 
+VIOLET
+INDIGO
+BLUE
+GREEN
+YELLOW
+ORANGE
+RED
 ```
