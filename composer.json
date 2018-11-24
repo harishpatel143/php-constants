@@ -1,0 +1,19 @@
+{
+    "name": "harishpatel143/constants",
+    "description": "This is a global constants package for the php framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "harish.patel",
+            "email": "harishdpatel143@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/constants.php"
+        ]
+    }
+}
