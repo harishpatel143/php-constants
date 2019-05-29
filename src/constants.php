@@ -1,18 +1,13 @@
 <?php
 /**
  * Defines useful time-based constants.
- *
- * @package HarishPatel\GlobalConstants
  */
-
 
 /**
  * Color constants.
  *
  * This is commonly used for things like cache expirations or task scheduling.
- *
  */
-
 if (!defined('VIOLET')) {
     define('VIOLET', '#9400D3');
 }
@@ -34,7 +29,7 @@ if (!defined('ORANGE')) {
 if (!defined('RED')) {
     define('RED', '#FF0000');
 }
-/**
+/*
  * Time based in seconds.
  *
  * This is commonly used for things like cache expirations or task scheduling.
@@ -66,7 +61,7 @@ if (!defined('YEAR_IN_SECONDS')) {
     define('YEAR_IN_SECONDS', 365 * DAY_IN_SECONDS);
 }
 
-/**
+/*
  * Time based in minutes.
  *
  */
@@ -92,7 +87,7 @@ if (!defined('YEAR_IN_MINUTES')) {
     define('YEAR_IN_MINUTES', 365 * DAY_IN_MINUTES);
 }
 
-/**
+/*
  * Time base on Hour
  *
  */
